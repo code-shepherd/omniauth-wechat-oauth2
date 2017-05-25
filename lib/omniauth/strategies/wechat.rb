@@ -20,10 +20,6 @@ module OmniAuth
         raw_info['openid']
       end
       
-      openid do
-        raw_info['openid']
-      end
-      
       unionid do
         raw_info['unionid']
       end
